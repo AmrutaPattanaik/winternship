@@ -1,6 +1,6 @@
 ---
-title: "From 'Left Out' to Leveled Up: My Two-Week MERN Sprint"
-author: Nitin Choudhary
+Title: "From Fear to Flow: My MERN Sprint"
+Author: Nitin Choudhary
 nptel_id: WIN25299
 ---
 
@@ -15,7 +15,7 @@ As I dove into the ViBe platform, the MERN course became more than just videos. 
 I wasn't just "watching" code; I was "wrestling" with it. It took me two weeks of persistence, but finishing that course felt like a massive personal victory.
 
 # A Culture of Collaboration
-One of the most beautiful aspects of this internship was the culture developed among the students. It wasn't just about individual progress; it was about the community. I found myself in an environment where **everyone was eager to help one another.** Whether it was a doubt in the breakout rooms or a bug in a case study, there was always a fellow intern ready to lend a hand. This spirit of "growing together" was awsome.
+One of the most beautiful aspects of this internship was the culture developed among the students. It wasn't just about individual progress; it was about the community. I found myself in an environment where everyone was eager to help one another. Whether it was a doubt in the breakout rooms or a bug in a case study, there was always a fellow intern ready to lend a hand. This spirit of "growing together" was awsome.
 
 # The Support System
 What kept me going through the intensity wasn't just the code, but the people:
