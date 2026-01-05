@@ -1,5 +1,5 @@
 ---
-title: "Redefining Virtual Learning: Growth and confidence in a Virtual Journey"
+title: "Growth Beyond Code: Reflections from a Virtual Program"
 author: Amruta Pattanaik
 nptel_id: WIN25375
 ---
